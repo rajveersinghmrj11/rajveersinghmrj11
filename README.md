@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajveersinghmrj11
 - 👀 I’m interested in CS & engineering 
-- 🌱 I’m currently learning phyton 
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on tech giant 
 - 📫 How to reach me , 💌 rajveersinghmrj11@gmail.com
 And I am totally fresher .
